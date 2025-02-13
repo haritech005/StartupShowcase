@@ -16,7 +16,7 @@ export default async function Home({
         name: "Hariharan",
       },
       description:
-        "this is description Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid voluptatum nihil iste deserunt perspiciatis illo quisquam, sint exercitationem necessitatibus ullam, ipsa distinctio facere atque ea alias earum. Culpa, soluta dolorem.",
+        "this is description Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid voluptatum nihil iste deserunt perspiciatis illo quisquam, sint",
       category: "Robots",
       title: "WE Robots",
       image: "https://i.ytimg.com/vi/Mu-eK72ioDk/maxresdefault.jpg",
